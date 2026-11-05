@@ -2,7 +2,11 @@
 
 *Personal project*
 
+**Live demo:** https://paper-explainer.streamlit.app
+
 Reading a full research paper is hard and takes a lot of time. So I made this small app. You give it a paper and it explains it in simple words. Then you can ask it anything about the paper.
+
+> The app may be sleeping if no one used it for a while. Just click "Wake up" and wait a few seconds.
 
 ## What it does
 
