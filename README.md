@@ -48,7 +48,6 @@ flowchart TD
 | Opening links | Requests, BeautifulSoup |
 | Finding free papers | OpenAlex, arXiv |
 
-The code is kept private.
 
 ---
 
