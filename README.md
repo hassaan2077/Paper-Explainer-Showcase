@@ -49,6 +49,3 @@ flowchart TD
 | Finding free papers | OpenAlex, arXiv |
 
 
----
-
-Built by Hassaan
